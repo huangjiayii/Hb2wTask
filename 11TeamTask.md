@@ -19,7 +19,7 @@
 > 答案：http://www.jianshu.com/p/fb09542166eb
 
 - 问题X：用实例介绍如何使用 Pull Request 和 Merge 实现团队工作协同？
-> 答案：
+> 答案：http://www.jianshu.com/p/92d9902fcfda
 
 - 问题X：如果要用 200 字向一个对 Github 完全陌生的人介绍它，要如何介绍？
 > 答案：
