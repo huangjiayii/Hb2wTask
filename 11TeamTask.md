@@ -22,7 +22,7 @@
 > 答案：http://www.jianshu.com/p/92d9902fcfda
 
 - 问题X：如果要用 200 字向一个对 Github 完全陌生的人介绍它，要如何介绍？
-> 答案：
+> 答案：http://note.youdao.com/yws/public/redirect/share?id=ae346d8cc956dabfcde623db6f81075c&type=false
 
 - 问题X：通过 Github 的操作来说明工作区、暂存区、版本库之间的关系
 > 答案：
