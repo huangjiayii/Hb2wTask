@@ -16,7 +16,7 @@
 ------
 ## 作业详情
 - 问题X：说说自己可以用 Github 做些什么，不少于 6 条。
-> 答案：
+> 答案：http://www.jianshu.com/p/fb09542166eb
 
 - 问题X：用实例介绍如何使用 Pull Request 和 Merge 实现团队工作协同？
 > 答案：
